@@ -1,9 +1,0 @@
-category: Text
-requires:
-sdesc: "Phone number alphabetizer"
-ldesc: "Generate all possible alphabetic mnemonics for a phone number, 
-then filter them for phonetic plausibility in English."
-
-
-
-
